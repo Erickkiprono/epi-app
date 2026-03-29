@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn
+lifelines
+geopandas
+folium
+streamlit-folium
+reportlab
